@@ -1,5 +1,5 @@
 import csv
-csv_file_path = "/Users/jakepedersen/desktop/gatewayDistances.csv"
+csv_file_path = "**YOUR FILE PATH**.csv"
 o_file = "Guam"  # ASSET NAME e.g. "TDRSX" OR "Goddard"
 
 # converter fcn
